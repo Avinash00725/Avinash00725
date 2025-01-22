@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Avinash00725
+- 👋 Hi, I’m Avinash Reddy M
 
