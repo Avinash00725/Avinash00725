@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,nodejs,mongodb,postgres,python,c" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,sklearn" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,sklearn,mysql" />
 </p>
 
 <hr>
