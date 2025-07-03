@@ -25,12 +25,7 @@
 
 <hr>
 
-## 🐍 My Contributions
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Avinash00725&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avinash00725/Avinash00725/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avinash00725/Avinash00725/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Avinash00725/Avinash00725/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+---
