@@ -34,10 +34,3 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Avinash00725/Avinash00725/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-<hr>
-
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Avinash00725/count.svg" alt="Visitor's Count" />
-</div>
